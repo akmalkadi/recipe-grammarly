@@ -1,0 +1,13 @@
+{
+  "id": "grammarly",
+  "name": "Grammarly",
+  "version": "1.0",
+  "description": "grammarly plugin for Franz 5",
+  "main": "index.js",
+  "author": "Abdulkarim Khormi <akmalkady@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/meetfranz/recipe-grammarly",
+  "config": {
+    "serviceURL": "https://app.grammarly.com/"
+  }
+}
